@@ -2,6 +2,9 @@
 name = "fast-csv-generator"
 version = "0.1.0"
 edition = "2021"
+description = "A Fast way to generate csv file"
+repository = "https://github.com/Zcb991/fast-csv-generator"
+homepage = "https://github.com/Zcb991/fast-csv-generator"
 
 [dependencies]
 xlsxwriter = "0.6.1"     # 或检查最新版本
